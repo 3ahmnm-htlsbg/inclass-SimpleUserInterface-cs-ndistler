@@ -13,12 +13,6 @@
 ### Target platform: 
 WebGL 1920x780
 
-### Visuals: 
-TODO
-
-### Necessary setup/execution steps: 
-TODO
-
 ### Third party material: 
 Template: Unity2019114f1-2D-Template (Link: https://github.com/3ahmnm-htlsbg/Unity2019114f1-2D-Template)
 
