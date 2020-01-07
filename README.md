@@ -1,28 +1,36 @@
-# Unity2019114f1-2D-Template
+# SimpleUserInterface ndistler README
 
 ### Project description: 
-Introduction/Project summary 
+#### simple Interface: 
+- with InputField, TextFields and Buttons
+- with UIScript for copying text and adding up from 0
 
 ### Development platform: 
-(OS, Unity Version, Visual Studio Version, used SDKs)
+- Mac OS Mojave 
+- Unity 2019.1.14f1 
+- Visual Studio Code 1.40.2
 
 ### Target platform: 
-WebGL, Mobile, VR Device incl. reference resolution 
+WebGL 1920x780
 
 ### Visuals: 
-Screenshots (concept and experience), Video
+TODO
 
 ### Necessary setup/execution steps: 
-Installation process, e.g. step by step instructions that I can run the project after cloning it
+TODO
 
 ### Third party material: 
-(if used Fonts, Sounds, Music, Graphics, Materials, Code etc.)
+Template: Unity2019114f1-2D-Template (Link: https://github.com/3ahmnm-htlsbg/Unity2019114f1-2D-Template)
 
 ### Project state: 
-incl. progress in percent
+100%
 
 ### Limitations: 
+None
 
 ### Lessons Learned: 
+- improved the github workflow
+- improved scripting
 
-Copyright by you :)
+
+Copyright by ndistler
