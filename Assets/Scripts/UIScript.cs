@@ -7,7 +7,7 @@ public class UIScript : MonoBehaviour
 {
     public Text NameText;
     public Text Counter;
-    public Button PrintName;
+    public Button WriteText;
     public Button Count;
     public InputField Name;
 
